@@ -54,3 +54,6 @@
 
 ### Целевой признак:
 - trip_duration — продолжительность поездки в секундах.
+
+
+Более подробно можно изучить в файле [nyc-taxi-duration.ipynb](https://github.com/IAskarov/NYC_Taxi_ML/blob/master/nyc-taxi-duration.ipynb)
